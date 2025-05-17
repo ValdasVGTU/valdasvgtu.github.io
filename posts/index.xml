@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ValdasKondratovič LDhugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 00:24:36 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 00:52:00 +0300</lastBuildDate>
     <atom:link href="https://valdasvgtu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antras Puslapis</title>
+      <link>https://valdasvgtu.github.io/posts/antras-puslapis/</link>
+      <pubDate>Sun, 18 May 2025 00:52:00 +0300</pubDate>
+      <guid>https://valdasvgtu.github.io/posts/antras-puslapis/</guid>
+      <description>&lt;p&gt;Tai mano antras puslapis. Žemiau yra paveikslėlis ir kodo pavyzdys.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://valdasvgtu.github.io/images/VT_pilnas_BlueTransparent.png&#34; alt=&#34;VILNIUS TECH logo&#34;&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;pasisveikinimas&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Laba diena, puslapį sukūrė Valdas Kondratovič iš VILNIUS TECH&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Valdas Kondratovič LD Hugo ir Git Titulinis</title>
       <link>https://valdasvgtu.github.io/posts/vako-titulinis/</link>
